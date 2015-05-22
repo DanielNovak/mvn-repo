@@ -1,5 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu May 21 18:15:07 CEST 2015
-volley-1.0.10.jar>=
-volley-1.0.10-sources.jar>=
-volley-1.0.10.pom>=
+#Fri May 22 08:32:51 CEST 2015
+volley-1.1.0.pom>=
+volley-1.1.0.jar>=
+volley-1.1.0-sources.jar>=
