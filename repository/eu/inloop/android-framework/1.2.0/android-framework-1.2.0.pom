@@ -6,6 +6,15 @@
   <artifactId>android-framework</artifactId>
   <version>1.2.0</version>
   <packaging>aar</packaging>
+  <licenses>
+  <license>
+   <name>Apache License, Version 2.0</name>
+   <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+   <distribution>repo</distribution>
+   <comments>A business-friendly OSS license</comments>
+   </license>
+  </licenses>
+  
   <dependencies>
     <dependency>
       <groupId>com.android.support</groupId>
